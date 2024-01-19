@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/carpaint_windows_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/130_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/BlackStandard_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/Bolts_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/carpaint_hood_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/carpaint_main_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/carpaint_roof_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/Material_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/Material_002.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/Rim_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/Rotor_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/Tire_Sidewall_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/Tire_tread_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/U_MC02_blackShine_shdr_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/U_MC02_rearViewMirror_shdr_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/U_MC02_LightsON_shdr_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/U_MC02_LightsGlass_shdr_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/U_MC02_Lights_shdr_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/U_MC02_interior_low_shdr_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/U_MC02_cardetails_shdr_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/Mustang_Materials/U_MC02_carBottom_shdr_001.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/FBX/Ford_Mustang_Raw_PhysicsAsset.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/FBX/Ford_Mustang_Raw_CtrlRig.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/FBX/Ford_Mustang_Raw.uasset",
+				"C:/Users/User/Documents/Github/URS/car-animation-in-unrealengine/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/FBX/Ford_Mustang_Raw_Skeleton.uasset",
+				"C:/Users/User/Documents/Github/URS/unreal-engine-5-c-developer-learn-c-make-video-games/CarAnimation/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+			]
+		}
+	]
+}
