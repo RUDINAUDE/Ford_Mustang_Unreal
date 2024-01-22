@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Documents/Github/URS/Ford_Mustang_Unreal/CarAnimation/Content/VehicleTemplate/Mustang_Turotial/FBX/Ford_Mustang_Raw_CtrlRig.uasset",
+				"C:/Users/User/Documents/Github/URS/Ford_Mustang_Unreal/CarAnimation/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/Z0/UKVIZBBNYQYOH7IAUR8RXH.uasset",
+				"C:/Users/User/Documents/Github/URS/Ford_Mustang_Unreal/CarAnimation/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/WT/9KR2LQQCHJRPN297OF2ULA.uasset",
+				"C:/Users/User/Documents/Github/URS/Ford_Mustang_Unreal/CarAnimation/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/S4/B8COEH44NAG566LIH3JPVC.uasset",
+				"C:/Users/User/Documents/Github/URS/Ford_Mustang_Unreal/CarAnimation/Content/Ford_Mustang_Raw_CtrlRig_Take1.uasset",
 				"C:/Users/User/Documents/Github/URS/unreal-engine-5-c-developer-learn-c-make-video-games/CarAnimation/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
